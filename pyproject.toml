@@ -17,7 +17,7 @@ readme = "README.md"
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: MIT License"]
 dynamic = ["version", "description"]
-dependencies = ["pytest", "numpy", "heapq", "networkx", "sklearn"]
+dependencies = ["pytest", "numpy", "scikit-learn", "networkx"]
 
 [project.urls]
 Home = "https://github.com/sllienaa/hw4-prim-mst"
